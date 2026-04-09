@@ -3,10 +3,7 @@
 <br>
 
 <p align="left">
-  <a href="https://github.com/Oseias-Hackbarth">
-    <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Oseias-Hackbarth&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  </a>
-  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Oseias-Hackbarth&layout=compact&langs_count=6&theme=dark" />
+  <img src="https://metrics.lecoq.io/Oseias-Hackbarth?base=header,activity,community,repositories,metadata&config.timezone=America/Sao_Paulo" alt="Metrics do Oséias" width="100%">
 </p>
 
 <br>
