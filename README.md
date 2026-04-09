@@ -3,12 +3,15 @@
 <br>
 
 <p align="left">
-  <img src="https://metrics.lecoq.io/Oseias-Hackbarth?base=header,activity,community,repositories,metadata&config.timezone=America/Sao_Paulo" alt="Metrics do Oséias" width="100%">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Oseias-Hackbarth&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oseias-Hackbarth&layout=compact&langs_count=6&theme=dark" />
 </p>
 
 <br>
 
 <div style="display: inline-block">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
