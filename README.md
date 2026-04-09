@@ -3,8 +3,8 @@
 <br>
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Oseias-Hackbarth&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oseias-Hackbarth&layout=compact&langs_count=6&theme=dark" />
+  <img height="180" src="https://github-readme-stats-six-retrace.vercel.app/api?username=Oseias-Hackbarth&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats-six-retrace.vercel.app/api/top-langs/?username=Oseias-Hackbarth&layout=compact&langs_count=6&theme=dark" />
 </p>
 
 <br>
@@ -24,7 +24,7 @@
 <br>
 
 <div> 
-  <a href="https://www.instagram.com/oseiasbarth/profilecard/?igsh=em1ldnJ1NXkzcXJ1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/oseiasbarth/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://discord.com/users/1065049477842468954" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
   <a href="mailto:oseias.hackbarth@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/oseias-barbosa-923966380" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
